@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.board {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.card {
+  border: 5px;
+  background-color: rgb(182, 141, 182);
+  border-radius: 2px;
+  box-shadow: 2px 1px;
+}
